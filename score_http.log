@@ -1,0 +1,8 @@
+[ 2018-11-19 12:36:38,270 ] - CTF Scorer Starts - :12345
+[ 2018-11-19 12:37:31,073 ] - ('88.128.80.121', 23174) GET
+[ 2018-11-19 12:37:31,073 ] - Oops! Something happened: No such file or directory
+[ 2018-11-19 12:37:31,073 ] - Sent [{"check": "0f07bcbc11729987fed000dc7af031a3", "team": "facebookCTF"}]
+[ 2018-11-19 12:37:31,284 ] - ('88.128.80.121', 23175) GET
+[ 2018-11-19 12:37:31,284 ] - Oops! Something happened: No such file or directory
+[ 2018-11-19 12:37:31,284 ] - Sent [{"check": "0f07bcbc11729987fed000dc7af031a3", "team": "facebookCTF"}]
+[ 2018-11-19 12:37:51,529 ] - CTF Scorer Stopped
